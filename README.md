@@ -5,8 +5,7 @@
 
 #### Steps:
 ``
-make deps
-make
+make fashions
 ``
 
 ## MNIST Database http://yann.lecun.com/exdb/mnist/
